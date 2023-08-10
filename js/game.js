@@ -146,6 +146,7 @@ class Game{
 
         gameOver() {
         //     preencha com a cor branca
+            text ("FIM DE JOGO"), width/2, 400
         //  imprimir a mensagem de fim de jogo
         }
             
